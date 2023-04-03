@@ -12,8 +12,11 @@
 ---
 ## Conhecimento
 >**Python**
+>
 >**HTML**
+>
 >**CSS**
+>
 >**JavaScript**
 ---
 
