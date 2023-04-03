@@ -9,4 +9,11 @@
 >**-Telefone**: (14)xxxx-xxxx
 >
 >**-Linkedin**: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+---
+## Conhecimento
+>**Python**
+>**HTML**
+>**CSS**
+>**JavaScript**
+---
 
