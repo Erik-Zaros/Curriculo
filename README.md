@@ -4,9 +4,9 @@
 ## Informações pessoais
 >**-Nome**: Erik Delanda Zaros
 >
->**E-mail**: erikzaros942@gmail.com
+>**-E-mail**: erikzaros942@gmail.com
 >
->**Telefone**: (14)xxxx-xxxx
+>**-Telefone**: (14)xxxx-xxxx
 >
->**Linkedin**: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+>**-Linkedin**: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 
