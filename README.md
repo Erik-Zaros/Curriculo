@@ -1,7 +1,7 @@
 # Curriculo
 ---
 
-##Informações pessoais
+## Informações pessoais
 >**-Nome**: Erik Delanda Zaros
 >
 >**E-mail**: erikzaros942@gmail.com
