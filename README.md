@@ -1,4 +1,4 @@
-# Curriculo
+# Currículo
 ---
 
 ## Informações pessoais
