@@ -21,5 +21,6 @@
 >**JavaScript**
 >
 >**PHP**
+>**SQL**
 ---
 
