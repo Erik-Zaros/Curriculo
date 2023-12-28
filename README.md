@@ -22,11 +22,11 @@
 ---
 ## Conhecimento
 
->**Linguagens**
+>**- Linguagens**
 >
->**HTML, CSS, JavaScript, PHP e SQL**
+>**- HTML, CSS, JavaScript, PHP e SQL**
 >
->**Ferramentas**
+>**- Ferramentas**
 >
->**Bootstrap e MySql**
+>**- Bootstrap e MySql**
 ---
