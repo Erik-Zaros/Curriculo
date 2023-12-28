@@ -10,10 +10,14 @@
 >
 >**-Linkedin**: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 ---
+## Ensino
+
+>**Ensino médio Completo**
+>
+>**Cursando ensino superior em Análise e desenvolvimento de sistemas 2° Semestre**
+---
 ## Conhecimento
 
->**Python**
->
 >**HTML**
 >
 >**CSS**
@@ -23,5 +27,6 @@
 >**PHP**
 >
 >**SQL**
+>
+>**Python**
 ---
-
