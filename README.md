@@ -12,13 +12,13 @@
 ---
 ## Ensino
 
->**Ensino médio Completo**
+>**- Ensino médio Completo**
 >
->**Colégio Compacto**
+>**- Colégio Compacto**
 >
->**Cursando ensino superior em Análise e desenvolvimento de sistemas 2° Semestre**
+>**- Cursando ensino superior em Análise e desenvolvimento de sistemas 2° Semestre**
 >
->**Universidade de Marília, Unimar**
+>**- Universidade de Marília, Unimar**
 ---
 ## Conhecimento
 
