@@ -13,14 +13,20 @@
 ## Ensino
 
 >**Ensino médio Completo**
+>
 >**Colégio Compacto**
+>
 >**Cursando ensino superior em Análise e desenvolvimento de sistemas 2° Semestre**
+>
 >**Universidade de Marília, Unimar**
 ---
 ## Conhecimento
+
 >**Linguagens**
+>
 >**HTML, CSS, JavaScript, PHP e SQL**
 >
 >**Ferramentas**
+>
 >**Bootstrap e MySql**
 ---
